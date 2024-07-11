@@ -1,2 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Camille1213.github.io/camille1.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Camille1213.github.io/camille1.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 09:00:35 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>水力压裂 Hydraulic Fracturing</title><link>https://Camille1213.github.io/camille1.github.io/post/shui-li-ya-lie-%20Hydraulic%20Fracturing.html</link><description>**Fracking**&#13;
+&#13;
+[【TED-Ed】水力压裂是如何工作的？又为何成为了风口浪尖的议题？@柚子木字幕组_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ux411L7iN/?spm_id_from=333.337.search-card.all.click)&#13;
+&#13;
+```&#13;
+第一步是钻井，钻到2.5-3km到达目的层然后转向90度延伸到页岩层后深度射孔枪并且射孔，穿透井壁进入岩层&#13;
+&#13;
+第二步三四个月后进行水力压裂，压裂液高压压入然后岩层破裂，制造出天然气和石油逸散通道（压裂液中90%水，10%化学添加剂有酸、减阻水、消毒液），还可能掺入沙子/粘土来保证泄压后天然气和石油持续排出（300-600万加仑）&#13;
+————压裂液的处理&#13;
+&#13;
+井外围有钢+水泥防止渗透造成污染&#13;
+```&#13;
+&#13;
+ [完井工程－水力压裂_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1e64y197XM/?spm_id_from=333.337.search-card.all.click&amp;vd_source=3979370d95a12d282e04d3e96b85179c)&#13;
+&#13;
+```&#13;
+第一步钻完后从放入套管，然后从套管注入水泥浆，并从套管底部上返，从环空返回地面，水泥能够在井眼和含水层之间形成保护层&#13;
+&#13;
+第二步完井，安装临时井口等再进行射孔作业，射孔枪定点爆破然后再水力压裂，压裂液反排以后下入套管，下入桥塞隔离一级井段再进行第二次射孔，依次完成多次射孔，最后取出来桥塞，安装永久井口（采油树）&#13;
+```&#13;
+&#13;
+[水力压裂力学及其在煤层气页岩气压裂中的应用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1894y1b7aM/?spm_id_from=333.337.search-card.all.click&amp;vd_source=3979370d95a12d282e04d3e96b85179c)&#13;
+&#13;
+赵海峰教授讲座 &#13;
+&#13;
+压裂设计核心算法是力学——水力压裂力学&#13;
+&#13;
+&#13;
+&#13;
+。</description><guid isPermaLink="true">https://Camille1213.github.io/camille1.github.io/post/shui-li-ya-lie-%20Hydraulic%20Fracturing.html</guid><pubDate>Thu, 11 Jul 2024 09:00:10 +0000</pubDate></item></channel></rss>
